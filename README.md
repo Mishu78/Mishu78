@@ -1,16 +1,91 @@
-## Hi there 👋
+<div align="center">
+  <img src="banner.jpg" width="100%"  alt="Md. Nur Sapa Banner" />
+</div>
 
-<!--
-**Mishu78/Mishu78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+👋 Hi, I'm Md. Nur Sapa! I'm a passionate Frontend Developer and MERN Stack Specialist from Dhaka, Bangladesh 🇧🇩. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working as a Frontend Developer Intern at HR Soft BD.
+- 🌱 I’m currently diving deep into Next.js and Advanced Backend Patterns.
+- ⚡️ Fun fact: I love turning complex Figma designs into pixel-perfect, responsive code.
+
+---
+
+## 🚀 Current Activities
+- 💻 Building: An internal HR Tracker System for employee management.
+- 🎓 Studying: Final year of B.Sc. in CSE at ULAB (CGPA: 3.78).
+- 🤝 Collaborating: Open to MERN stack projects and Frontend roles.
+
+---
+## ⚒️ Tech Stack
+<div align="center">
+
+
+
+| | | | | | |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=html" width="40" /> | <img src="https://skillicons.dev/icons?i=css" width="40" /> | <img src="https://skillicons.dev/icons?i=js" width="40" /> | <img src="https://skillicons.dev/icons?i=react" width="40" /> | <img src="https://skillicons.dev/icons?i=nextjs" width="40" /> | <img src="https://skillicons.dev/icons?i=tailwind" width="40" /> |
+| HTML | CSS | JavaScript | React | Next.js | Tailwind |
+| <img src="https://skillicons.dev/icons?i=nodejs" width="40" /> | <img src="https://skillicons.dev/icons?i=express" width="40" /> | <img src="https://skillicons.dev/icons?i=mongodb" width="40" /> | <img src="https://skillicons.dev/icons?i=firebase" width="40" /> | <img src="https://skillicons.dev/icons?i=postgresql" width="40" /> | <img src="https://skillicons.dev/icons?i=prisma" width="40" /> |
+| Node.js | Express | MongoDB | Firebase | PostgreSQL | Prisma |
+| <img src="https://skillicons.dev/icons?i=git" width="40" /> | <img src="https://skillicons.dev/icons?i=github" width="40" /> | <img src="https://skillicons.dev/icons?i=vscode" width="40" /> | <img src="https://skillicons.dev/icons?i=postman" width="40" /> | <img src="https://skillicons.dev/icons?i=netlify" width="40" /> | <img src="https://skillicons.dev/icons?i=vercel" width="40" /> |
+| Git | GitHub | VS Code | Postman | Netlify | Vercel |
+
+<br />
+
+> Libraries & Auth: Tanstack Query • Recharts • React Hook Form • Framer Motion • Firebase Auth • JWT
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+
+<div align="center">
+
+
+
+<p align="center">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaPa36&theme=tokyonight&cache_seconds=1800" alt="SaPa36's Streak" />
+</p>
+
+</div>
+
+
+---
+
+## 🤝 Connect With Me
+<div align="center">
+
+<a href="https://www.facebook.com/share/1DUEqJzjzT/?mibextid=wwXIfr" target="blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35" />
+</a>
+<a href="https://wa.me/8801747392404" target="blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" />
+</a>
+<a href="mailto:nursapa2001@gmail.com" target="blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
+</a>
+<a href="https://sapa-portfolio7.netlify.app/" target="blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" height="35" />
+</a>
+
+</div>
+
+---
+
+## ❤️ Interests
+- ⚛️ React.js & Frontend Architecture
+- 🎨 UI/UX Design & Figma
+- ☕️ Problem Solving with JavaScript
+
+<div align="center">
+
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077b6&height=120&section=footer" width="100%" />
+</div>
