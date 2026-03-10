@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 
-👋 Hi, I'm Meherun Nesa Mishu! I'm a dedicated Front-end Developer based in Dhaka, Bangladesh.I enjoy building user-focused applications and exploring the intersection of web development with AI and data science.
+👋 Hi, I'm a dedicated Front-end Developer based in Dhaka, Bangladesh.I enjoy building user-focused applications and exploring the intersection of web development with AI and data science.
 
 - 🔭 I’m currently focused on developing high-impact, innovative web projects.
 - 🌱 I’m currently deepening my knowledge in AI, Machine Learning, and modern technological trends.
