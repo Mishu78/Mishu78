@@ -3,9 +3,7 @@
 
   <br />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=0077B6&center=true&vCenter=true&width=600&lines=Hello+welcome !;Nice+to+meet+you;I+am+Meherun+Nesa+Mishu..." alt="Typing Animation" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=0077B6&center=true&vCenter=true&width=600&lines=Hello+welcome!;Nice+to+meet+you;I+am+Meherun+Nesa+Mishu...&v=2" alt="Typing Animation" />
 </div>
 
 <br />
@@ -59,11 +57,11 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mishu78&theme=tokyonight" alt="Mishu Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mishu78&theme=tokyonight&v=2" alt="Mishu Streak" />
 
   <br />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mishu78&theme=tokyo-night&area=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mishu78&theme=tokyo-night&area=true&v=2" width="100%" alt="Activity Graph" />
 </div>
 
 ---
